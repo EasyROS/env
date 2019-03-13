@@ -1,2 +1,2 @@
 #!/bin/zsh
-../../devel_test/lib/ezshell/EZCommand
+../../../devel_test/lib/ezshell/EZCommand
